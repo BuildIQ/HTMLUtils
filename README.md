@@ -1,5 +1,5 @@
 # HTMLUtils
-JavaScript Utility Library For HTML Encoding
+JavaScript utility library for recursively HTML Encoding JSON objects, to prevent Cross-Site Scripting (XSS)
 
 This is a generic JavaScript/security library for HTML Encoding strings and objects. It will recursively walk a given JSON object, and encode anything necessary, all children, children of children, objects, lists, etc. 
 
